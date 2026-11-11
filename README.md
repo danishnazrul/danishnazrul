@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Danish Nazrul - Computer Science, Network and Security"/>
+<img src="https://raw.githubusercontent.com/danishnazrul/danishnazrul/main/assets/header.svg" width="100%" alt="Danish Nazrul - Computer Science, Network and Security"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Danish+%F0%9F%91%8B;Computer+Science+Undergraduate+%40+UTM;Aspiring+SOC+Analyst+%F0%9F%9B%A1%EF%B8%8F;Learning+Python+%7C+Building+with+C%2B%2B" alt="Typing animation"/>
@@ -105,7 +105,7 @@ I'm **Danish Nazrul**, a Computer Science undergraduate at **Universiti Teknolog
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/danishnazrul/danishnazrul/main/footer.svg?v=3" alt="Securing the network, one packet at a time." width="1000"/>
+<img src="https://raw.githubusercontent.com/danishnazrul/danishnazrul/main/assets/footer.svg?v=2" alt="Securing the network, one packet at a time." width="1000"/>
 
 
 
