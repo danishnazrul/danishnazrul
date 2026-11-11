@@ -105,7 +105,7 @@ I'm **Danish Nazrul**, a Computer Science undergraduate at **Universiti Teknolog
 
 <br/><br/>
 
-*"Securing the network, one packet at a time."* 🛡️
+<img src="https://raw.githubusercontent.com/danishnazrul/danishnazrul/main/footer.svg?v=3" alt="Securing the network, one packet at a time." width="1000"/>
 
 
 
