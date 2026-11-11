@@ -76,16 +76,14 @@ I'm **Danish Nazrul**, a Computer Science undergraduate at **Universiti Teknolog
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=danishnazrul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishnazrul&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=danishnazrul&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danishnazrul&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%"/>
+<br/><br/>
+
+<a href="https://github.com/danishnazrul?tab=followers"><img src="https://img.shields.io/github/followers/danishnazrul?style=for-the-badge&logo=github&color=0891b2" alt="Followers"/></a>
+<a href="https://github.com/danishnazrul?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-1e3a8a?style=for-the-badge&logo=github" alt="Repositories"/></a>
 
 </div>
-
----
 
 ## 🏆 Achievements
 
@@ -94,12 +92,6 @@ I'm **Danish Nazrul**, a Computer Science undergraduate at **Universiti Teknolog
 - 🎓 Completed the Physical Science Foundation Programme at UTMKL
 - 🏅 `ADD_ACHIEVEMENT` (e.g. competition, certification, dean's list)
 - 📜 `ADD_CERTIFICATION`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=danishnazrul&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub trophies"/>
-
-</div>
 
 ---
 
