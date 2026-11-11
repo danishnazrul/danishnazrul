@@ -39,15 +39,15 @@ I'm **Danish Nazrul**, a Computer Science undergraduate at **Universiti Teknolog
 
 <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" alt="Languages"/>
 
-**Tools & Platforms** *(add or remove as you learn)*
+**Tools & Platforms** 
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=github,linux,vscode&theme=dark" alt="Tools"/>
 
 </div>
 
 | Area | Skills |
 |------|--------|
-| **Programming** | C++ (proficient), Python (learning) |
+| **Programming** | C++ , Python |
 | **Networking & Security** | `ADD_YOUR_SKILLS_HERE` (e.g. tools or concepts you've covered) |
 | **Tools** | Git, GitHub, `ADD_MORE` |
 
